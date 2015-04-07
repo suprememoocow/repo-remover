@@ -1,0 +1,25 @@
+{
+  "name": "repo-remover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suprememoocow/repo-remover.git"
+  },
+  "author": "Andrew Newdigate <andrewn@datatribe.net> (http://about.me/andrewnewdigate)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suprememoocow/repo-remover/issues"
+  },
+  "homepage": "https://github.com/suprememoocow/repo-remover",
+  "dependencies": {
+    "nomnom": "^1.8.1",
+    "q": "^1.2.0",
+    "qlimit": "^0.1.1",
+    "tentacles": "^0.2.2"
+  }
+}
